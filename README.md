@@ -14,8 +14,10 @@ For some reason, News API only works on mozilla browsers in free plan other than
 Here is a working live demo :https://reactinshort.netlify.app/
 ## Site
 Landing Page
+Choose ![1](https://user-images.githubusercontent.com/96626624/184000454-0285d622-5749-411a-ba87-9d9d449fb727.png)
 
-Choose from different Categories
+from different Categories
+![2](https://user-images.githubusercontent.com/96626624/184000559-b1dbef7b-14c5-4868-85d8-45e1f7bff677.png)
 
 ## Built with
 ✅React
