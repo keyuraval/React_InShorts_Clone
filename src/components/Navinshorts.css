@@ -3,6 +3,7 @@
     box-shadow: 0px 1px 8px #888888;
     display: flex;
     align-items: center;
+    position: sticky;
 }
 
 .menu {
