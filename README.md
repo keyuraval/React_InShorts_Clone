@@ -1,7 +1,7 @@
 
 # React Inshorts Clone
 
-This a clone of famous short news website inshorts.com built in React JS.
+This a clone of famous short news website inshorts.com built in ReactJS.
 
 
 
